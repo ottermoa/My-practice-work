@@ -7,7 +7,7 @@
     <p> Day 1  : I'm learning about basic of JS : <br>
       Varibles Command Operators Compare logic and Conditions
     </p>
-    <p> Day 2 : I revisit what that I learned yesterday. </p>
-    <p> Day 3 : I just learned Array. </p>
+   
+    
   </body>
 </html>
