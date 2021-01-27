@@ -10,6 +10,7 @@
     <p> Day 2 : I revisit what that I learned yesterday. 
     </p>
     <p> Day 3 : I just learned Array. </p>
+    <p> Day 4 : I doesn't edited and learned cause' I focus on my portfolio TODAY IS LAST DAY TO SENT PORT' TO KMUTT!!</p>
    
     
   </body>
