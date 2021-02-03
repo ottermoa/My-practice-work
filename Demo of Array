@@ -1,0 +1,32 @@
+// Create Array
+let fruits = ['Apple', 'Banana', 'Orange'];
+
+// เข้าถึงข้อมูลใน Array ด้วยเลข Index
+console.log('- เข้าถึงข้อมูล -')
+console.log('First fruit = ' + fruits[0]);
+console.log('Second fruit = ' + fruits[1]);
+
+// แก้ไขข้อมูลใน Array
+fruits[1] = 'Watermelon';
+console.log('- แก้ไขข้อมูล -')
+console.log(fruits);
+
+// เพิ่มข้อมูลที่ตำแหน่งสุดท้ายใน Array
+fruits.push('Mango');
+console.log('- เพิ่มข้อมูลที่ตำแหน่งสุดท้าย -');
+console.log(fruits);
+
+// เพิ่มข้อมูลที่ตำแหน่งแรกใน Array
+fruits.unshift('Tomato');
+console.log('- เพิ่มข้อมูลที่ตำแหน่งแรก -');
+console.log(fruits);
+
+// ลบข้อมูลที่ตำแหน่งสุดท้ายใน Array
+fruits.pop();
+console.log('- ลบข้อมูลที่ตำแหน่งสุดท้าย -');
+console.log(fruits);
+
+// ลบข้อมูลที่ตำแหน่งแรกใน Array
+fruits.shift();
+console.log('- ลบข้อมูลที่ตำแหน่งแรก -');
+console.log(fruits);
