@@ -15,6 +15,8 @@
     <p> Day 6 : xxx </p>
     <p> Day 7 : I interested in Flutter but I wonder about it little.</p>
     <p> Day 8 : Today I learned about Array Function. I feel awesome in myself 'cause I can solve my problem of hidden console log by I search how to in Google. I found how to that in stackoverflow!! (Thx Phrogz) </p>
+    <p> Day 9 : xxx </p>
+    <p> Day 10 : I continue learning about array functions. I confused about my HTML code. Why it error often???? </p>
    
     
   </body>
