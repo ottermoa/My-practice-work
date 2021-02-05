@@ -20,6 +20,7 @@
     <p> Day 11 : Well, Arrow Functions </p>
     <p> Day 12 : I start learning about array functions. I confused about my HTML code. Why it error often???? </p>
     <p> Day 13 : I know command in array functions. </p>
+    <p> Day 14 : I prepare myself for the interview in tomorrow. I feel pressure just a little bit!! </p>
    
     
   </body>
