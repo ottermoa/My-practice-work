@@ -21,6 +21,11 @@
     <p> Day 12 : I start learning about array functions. I confused about my HTML code. Why it error often???? </p>
     <p> Day 13 : I know command in array functions. </p>
     <p> Day 14 : I prepare myself for the interview in tomorrow. I feel pressure just a little bit!! </p>
+    <p> Day 15 : I changed sth in my code of practice js</p>
+    <p> Day 16 : xxx </p>
+    <p> Day 17 : I just check my practice code. I want to learning about JS.</p>
+
+
    
     
   </body>
